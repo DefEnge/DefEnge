@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,react,tailwind,vscode,nvim,git,github)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,react,tailwind,vscode,git,github)
 
 <h3 align="left">Currently using:</h3>
 
